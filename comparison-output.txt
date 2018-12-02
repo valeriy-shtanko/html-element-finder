@@ -1,0 +1,12 @@
+
+File: sample-1-evil-gemini.html
+html > body > div > div > div(row) > div(col-lg-8) > div(panel panel-default) > div(panel-body)
+
+File: sample-2-container-and-clone.html
+html > body > div > div > div(row) > div(col-lg-8) > div(panel panel-default) > div(panel-body) > div(some-container)
+
+File: sample-3-the-escape.html
+html > body > div > div > div(row) > div(col-lg-8) > div(panel panel-default) > div(panel-footer)
+
+File: sample-4-the-mash.html
+html > body > div > div > div(row) > div(col-lg-8) > div(panel panel-default) > div(panel-footer)
